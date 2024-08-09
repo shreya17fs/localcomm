@@ -1,0 +1,14 @@
+.home {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .home h1 {
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+  }
+  
+  .home p {
+    color: var(--text-color);
+  }
+  
